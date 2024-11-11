@@ -26,6 +26,7 @@ namespace WindowsFormsApp1
             dialog.IsFolderPicker = false;            //파일 선택
             dialog.Filters.Add(new CommonFileDialogFilter("Excel", "*.xlsx"));
             //dialog.Filters.Add(new CommonFileDialogFilter("CSV", "*.csv"));
+	//ffff
 
             if (dialog.ShowDialog() == CommonFileDialogResult.Cancel)
             {
