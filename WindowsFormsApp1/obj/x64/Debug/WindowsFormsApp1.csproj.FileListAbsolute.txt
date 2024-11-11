@@ -1,0 +1,15 @@
+F:\DRM_TEST\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe.config
+F:\DRM_TEST\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe
+F:\DRM_TEST\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.pdb
+F:\DRM_TEST\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\Microsoft.WindowsAPICodePack.dll
+F:\DRM_TEST\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+F:\DRM_TEST\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\Microsoft.WindowsAPICodePack.xml
+F:\DRM_TEST\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+F:\DRM_TEST\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+F:\DRM_TEST\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Form1.resources
+F:\DRM_TEST\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\DRM_TEST\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+F:\DRM_TEST\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+F:\DRM_TEST\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.exe
+F:\DRM_TEST\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.pdb
+F:\DRM_TEST\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
