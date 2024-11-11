@@ -23,7 +23,7 @@ namespace WindowsFormsApp1
         private void btn_dataSelect_Click(object sender, EventArgs e)
         {
             CommonOpenFileDialog dialog = new CommonOpenFileDialog();
-            dialog.IsFolderPicker = false;            //파일 선택
+            dialog.IsFolderPicker = false;            //파일 선택dfdfdfd
             dialog.Filters.Add(new CommonFileDialogFilter("Excel", "*.xlsx"));
             //dialog.Filters.Add(new CommonFileDialogFilter("CSV", "*.csv"));
 	//ffff
